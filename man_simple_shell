@@ -1,0 +1,15 @@
+.\ "HSH - Man Page
+.\ "Contact Siyanda Sithole to correct typos or errors.
+.TH hsh "11 November 2023" "1.0" "hsh man page"
+
+.SH NWME
+hsh \- a simple reproduction of GNU Bourne Again SHell with limited functions
+
+.SH SYNOPSIS
+#include "shell.h"
+
+.sh DESCRIPTION
+hsh is a simple command line shell for OS X and Linux.
+
+.SH
+BUILT IN COMMANDS 
